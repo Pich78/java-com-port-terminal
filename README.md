@@ -3,4 +3,4 @@ A terminal application to use serial port of the computer, based on JavaFX and j
 
 Guide used to add Maven dependency for JavaFX: https://www.youtube.com/watch?v=3eE-xz-l2mY
 
-Run with: mvn clean javafx:run
+Run with: `mvn clean javafx:run`
